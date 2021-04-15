@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Notaciones_Infijas_Profijas_Prefijas/1.0.0": {
+        "runtime": {
+          "Notaciones_Infijas_Profijas_Prefijas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Notaciones_Infijas_Profijas_Prefijas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
