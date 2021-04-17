@@ -1,4 +1,4 @@
-# Notaciones_Infijas_Profijas_Prefijas
+# Notaciones Infijas,Profijas y Prefijas
 
 ## Muestra del Menu del Programa
 
